@@ -1,5 +1,4 @@
-# basic-python-projects
-Temel Pyhton Projeleri
+[h3]Temel Pyhton Projeleri[/h3]
 1- Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listtlerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. 
 Örnek olarak:
 
